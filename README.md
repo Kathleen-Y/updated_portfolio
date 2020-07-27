@@ -1,60 +1,110 @@
-### Minimum Requirements
+# Unit 16 Project 2 Homework: Professional Materials
 
-* Functional, deployed application
+Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
 
-* GitHub repository with README describing the project
-
-* Navbar must be consistent on each page.
-
-* used Materialize css
-
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
-
-* All links must work.
-
-* Must use semantic html.
-
-* Each page must have valid and correct HTML. (use a validation service)
-
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
-
-* Must properly utilize Bootstrap components and grid system.
+If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
 
 
-### Bonus
+## Requirements
 
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site
+* Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments. 
 
+* Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
 
-## Commit Early and Often
+* Updated resume
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
+* Updated LinkedIn profile
 
 
-## Submission on BCS
+## Grading
 
-You are required to submit the following:
+| Requirement      | Weight |
+|---               |---     |
+| Portoflio        | 40%    |
+| GitHub Profile   | 40%    |
+| Resume           | 10%    |
+| LinkedIn Profile | 10%    |
 
-* The URLs of the deployed applications
 
-* The URLs of the GitHub repositories
+## Instructions
+
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+3. [Updated Resume](#updated-resume)
+4. [Updated LinkedIn](#updated-linkedin)
+
+### Updated Portfolio
+
+Your updated site should have the following content:
+
+* Your name
+
+* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+
+* A link to a PDF of your resume
+
+* A list of projects. For each project, make sure you have the following:
+
+  * Project title
+
+  * Link to the deployed version
+
+  * Link to the GitHub repository
+
+  * Screenshot of the deployed application
+
+
+#### Design
+
+Unfortunately, this is where it gets a little bit subjective. Your site should look
+"polished." Here are a few guidelines on what that means:
+
+* Mobile-first design
+
+* Choose a color palette for your site so it doesn't just look like
+the default bootstrap theme or an unstyled HTML site.
+
+* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+
+
+### Updated GitHub Profile 
+
+* If you haven't yet, now is the time to update the following in your GitHub profile: 
+
+    * Profile picture
+
+    * Bio
+
+    * Location
+
+    * Email
+
+    * Link to your portfolio
+
+* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
+
+* Pin some repos that you want to highlight
+
+  * Navigate to [GitHub](https://github.com/) and go to your profile.
+
+  * Click "Customize your pins"
+
+  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+
+  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
+
+* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
+
+
+### Updated Resume 
+
+Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
+
+
+### Updated LinkedIn Profile 
+
+Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
+
 
 - - -
-
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
