@@ -12,8 +12,8 @@
 
 
 
-
-
+note to self
+for badges (https://github.com/matiassingers/awesome-readme/blob/master/readme.md)
 
 
 
