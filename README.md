@@ -3,7 +3,7 @@
 
 - Updated Portfolio
 
-- GitHub Profile [GitHub Profile](/Kathleen-Y)
+- [GitHub Profile](https://github.com/Kathleen-Y)
 
 - Updated Resume
 
