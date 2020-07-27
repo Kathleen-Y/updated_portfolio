@@ -1,13 +1,13 @@
 
 ## Personal Updated Portfolio
 
-- Updated Portfolio
+- [Updated Portfolio](https://kathleen-y.github.io/updated_portfolio/portfolio.html)
 
 - [GitHub Profile](https://github.com/Kathleen-Y)
 
-- Updated Resume
+- [Updated Resume](drive.google)
 
-- Updated LinkedIn
+- [Updated LinkedIn](https://www.linkedin.com/k-yoannon)
 
 
 
