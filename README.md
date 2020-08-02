@@ -7,7 +7,7 @@
 
 - [Updated Resume](drive.google)
 
-- [Updated LinkedIn](https://www.linkedin.com/k-yoannon)
+- [Updated LinkedIn](https://www.linkedin.com/in/k-yoannon/)
 
 
 
@@ -17,6 +17,17 @@ for badges (https://github.com/matiassingers/awesome-readme/blob/master/readme.m
 
 
 
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+<br>
+<br>
 
 
 
