@@ -18,35 +18,5 @@
 
 
 
-<br>
-<br>
 
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-<br>
-<br>
-<br>
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-© 2020 Kathleen J Yoannon
+## © 2020 Kathleen J Yoannon
