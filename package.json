@@ -1,5 +1,5 @@
 {
-  "name": "update_portfolio",
+  "name": "updated_portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kathleen-Y/update_portfolio.git"
+    "url": "git+https://github.com/Kathleen-Y/updated_portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kathleen-Yupdate_portfolio/issues"
+    "url": "https://github.com/Kathleen-Y/updated_portfolio/issues"
   },
-  "homepage": "https://github.com/Kathleen-Y/update_portfolio#readme",
+  "homepage": "https://github.com/Kathleen-Y/updated_portfolio#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
