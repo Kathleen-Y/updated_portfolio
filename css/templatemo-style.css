@@ -78,10 +78,15 @@ img {
 
 /* navigation */
 
+.img.circle.responsive-img {
+  background: lightgray;
+  position: initial;
+}
+
 .navbar-default {
-    background: #202020;
+    background: #e7e3e3;
     border: none;
-    border-left: 6px solid #d54ab6;
+    border-left: 6px solid purple;
     padding-right: 40px;
     margin: 0 !important;
     position: relative;
@@ -93,7 +98,8 @@ img {
     padding-top: 4px;
    }
 .navbar-default .navbar-nav li a {
-  color: #f2f2f2;
+  color: purple;
+  background: #e7e3e3;
   font-size: 13px;
   font-weight: 400;
   line-height: 40px;
@@ -102,6 +108,7 @@ img {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #ffa500;
+  background: brown;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -110,14 +117,14 @@ img {
   	background-color: transparent;
 }
 .navbar-default .navbar-toggle {
-  	background: #d54ab6;
+  	background: purple;
   	border-radius: 0px;
    	border: none;
    	margin-top: 20px;
    	margin-bottom: 30px;
 }
 .navbar-default .navbar-toggle .icon-bar {
-    background: #fff;
+    background: gray;
     border-color: transparent;
 }
 .navbar-default .navbar-toggle:hover,
