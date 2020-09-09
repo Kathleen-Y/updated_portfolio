@@ -2,6 +2,10 @@
 var map = '';
 var center;
 
+mongoose.connect(
+  process.env.MONGODB_URI || "mongodb://localhost/updated_portfolio"
+);
+
 function initialize() {
     var mapOptions = {
       zoom: 16,
