@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Kathleen-Y/updated_portfolio#readme",
   "dependencies": {
-    "mongoose": "^5.10.3"
+    "mongoose": "^5.13.15"
   }
 }
